@@ -1,8 +1,8 @@
 Global Solution 2025, C#
 
 Integrantes:
-Ricardo Ramos Vergani
-Arthur Baldissera
+Ricardo Ramos Vergani, 
+Arthur Baldissera, 
 Miguel Ruan
 
 
