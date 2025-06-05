@@ -18,4 +18,4 @@ USUARIO DE ACESSO: admin
 SENHA DE ACESSO: 1234
 
 Funcionalidade aplicadas: 
-Registro, Exclusao, Pesquisa, Identificacao de Alerta e Visualizacao de dados.
+Registro, Exclusao, Pesquisa, Identificacao de Alerta e Visualizacao de dados e banco de dados local via JSON. 
