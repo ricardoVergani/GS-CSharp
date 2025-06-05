@@ -19,3 +19,7 @@ SENHA DE ACESSO: 1234
 
 Funcionalidade aplicadas: 
 Registro, Exclusao, Pesquisa, Identificacao de Alerta e Visualizacao de dados e banco de dados local via JSON. 
+
+
+
+OBS: (Algumas funcoes do codigo de C# estao vazias, fizemos assim pois o WINFORM estava dando erro quando nao nomeavamos os elementos no codigo, e nao conseguiamos visualizar as telas, caso tenha alguma forma melhor para consertar isso, aceitamos o feedback!)
